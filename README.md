@@ -114,4 +114,4 @@ Deploy Vault.sol at the address
 Shivam Gupta
 
 ## LICENSE
-This project is licensed under the [BSD-2-Clause license](LICENSE).
+This project is licensed under the [Apache-2.0 license](LICENSE).
